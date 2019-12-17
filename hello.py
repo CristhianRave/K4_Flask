@@ -57,6 +57,7 @@ def otro():
     <td>Italy</td>
   </tr>
 </table>
+
         </body>
     </html>
     '''
